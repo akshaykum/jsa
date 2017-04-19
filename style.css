@@ -1,0 +1,23 @@
+.navmenu{
+    float: right;
+    font-size: 15px;
+}
+
+.logocollege{
+    text-align: centre;
+}
+
+.logoscollege img{
+    height: 70px;
+    width: 170px;
+}
+
+.logocom{
+    height: 100px;
+    width: 150px;
+}
+
+.logoround img{
+    height: 70px;
+    width: 80px;
+}
